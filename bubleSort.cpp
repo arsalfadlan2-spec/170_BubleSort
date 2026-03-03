@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int arr[20];
+int arr[15];
 int n;
 
 void input()
