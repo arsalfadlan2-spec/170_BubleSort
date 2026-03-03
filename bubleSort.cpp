@@ -77,7 +77,7 @@ void display()
     cout << endl;
     cout << endl;
 
-    cout << "jumlah pass = " << n - 1 << endl;
+    cout << "jumlah pass = " << n - 2 << endl;
     cout << endl;
     cout << endl;
 }
