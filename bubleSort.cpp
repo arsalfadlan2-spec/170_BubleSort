@@ -12,7 +12,7 @@ void input()
     {
         cout << "masukkan banyaknya elemn dalam array : ";
         cin >> n;
-        if (n <= 20)
+        if (n <= 10)
             break;
         else
         {
